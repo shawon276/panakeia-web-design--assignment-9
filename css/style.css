@@ -1,0 +1,542 @@
+/* 
+ Author Info
+ ============
+
+Name:omor faruk shawon
+Gmail:mdsawon830@gmail.com
+phone:01689909850
+
+=======$=======
+*/
+
+/*
+====Index====
+
+1.Fusce at 
+2.Facilisis 
+3.Ante donec 
+4.Blandit rhoncus
+5.Placerat
+
+=======$=======
+*/
+
+
+/*-----Global css-----*/
+
+h1{
+	color: #fff;
+	font-size: 30px;
+	margin: 20px 0px;
+	font-family: 'Roboto Slab', serif;
+}
+
+h2{
+	
+}
+
+h3{
+	
+}
+
+h4{
+	
+}
+
+
+h5{
+	
+}
+
+h6{
+	
+}
+
+p{
+	
+   
+}
+
+.img-center{
+	display: block;
+	margin: 0px auto;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+/*----Global css end---*/
+
+
+/*------==header==-----*/
+
+.nav-head{
+	background-color:#edeff1!important;
+	padding: 15px 0px;
+	font-family: 'Roboto Slab', serif;
+
+}
+
+.nav-link {
+	color: #161616;
+}
+
+.nav-link.js-scroll-trigger.active{
+	background: #dd4b2b;
+	color: #fff;
+	border-radius: 20px;
+	padding: 5px 20px;
+
+}
+
+/*------==header end==-----*/
+
+
+/*------==Hero section==-----*/
+
+.hero{
+	background: url(../img/02.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+.hero-top h2{
+	color: #fff;
+	font-size: 55px;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	padding-top: 300px;
+}
+
+.hero-top p{
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 110px;
+}
+
+.logo-head{
+	text-align: center;
+}
+
+.logo-head p{
+	 color: #fff;
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.btn-cstm{
+	display: block;
+	margin: 70px auto 100px;
+	background: #fff;
+	color: darkred;
+	font-size: 15px;
+	border: 0;
+	border-radius: 20px;
+	padding: 10px 40px;
+	transition: 0.7s ease;
+}
+
+.btn-cstm:hover{
+	background: #dd4b2b;
+}
+
+/*------==Hero section end==-----*/
+
+
+/*------==part section==-----*/
+
+.part-one h2{
+	color:#161616;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	margin: 50px 0px 50px;
+}
+
+.img-one p{
+	text-align: center;
+	font-size: 15px;
+	color: gray;
+   
+}
+.part{
+	background-color:#edeff1;
+	padding-bottom: 40px;
+}
+
+.img-one{
+	text-align: center;
+}
+
+.img-one h1{
+    color:#161616;
+	font-size: 30px;
+	margin: 20px 0px;
+	font-family: 'Roboto Slab', serif;
+}
+
+
+.btn-cstm-one{
+	display: block;
+	margin: 30px auto 40px;
+	background: #fff;
+	color: black;
+	font-size: 15px;
+	border: 0;
+	border-radius: 20px;
+	padding: 10px 40px;
+	transition: 0.7s ease;
+}
+
+.btn-cstm-one:hover{
+	background: #dd4b2b;
+}
+
+/*------==part section end==-----*/
+
+
+/*------==banner section ==-----*/
+
+.banner{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/09.png) center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.banner-one h2{
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	color: #fff;
+	font-size: 35px;
+	margin-top: 80px;
+}
+
+.banner-one p{
+	text-align: center;
+	font-size: 15px;
+    font-family: 'Roboto Slab', serif;
+    	color: #fff;
+    	padding: 0px 50px;
+}
+
+.input{
+	border: 0;
+	background:transparent;
+	color: #fff;
+	width: 280px;
+	outline: none;
+	height: 40px;
+	padding: 10px 20px;
+	border-radius: 20px;
+	border: 1px solid #fff;
+	margin-top: 50px;
+	position: relative;
+	 margin-bottom: 80px;
+	     transition: 0.7s ease;
+}
+
+.input-one{
+	position: absolute;
+	color: darkred;
+	padding: 8px 40px;
+	border-radius: 20px;
+	border: 0;
+    top: 50px;
+    right: 10px;
+    background-color: #fff;
+    transition: 0.7s ease;
+
+}
+
+::placeholder{
+	color: #fff;
+}
+
+
+.input:hover{
+		border: 1px solid #dd4b2b;
+	
+}
+
+.input-one:hover{
+	background: #dd4b2b;
+	color: #fff;
+}
+
+/*------==banner section end ==-----*/
+
+
+
+/*------==image section==-----*/
+
+
+.image{
+
+	padding: 30px 0px 40px;
+
+}
+
+.pk h2{
+	color:#161616;
+	font-size: 40px;
+
+
+	margin: 70px 0px 0px;
+}
+
+.pk p{
+	margin: 20px 0px;
+	font-size: 13px;
+    font-family: 'Roboto Slab', serif;
+    	color: black;
+    	
+}
+.image img{
+
+	margin:30px 50px;
+width: 450px;
+	height: 300px;
+
+}
+
+.btn-cstm-two{
+	display: block;
+	margin: 40px 0px 0px;
+	background: #dd4b2b;
+	color: #fff;
+	font-size: 15px;
+	border: 0;
+	border-radius: 20px;
+	padding: 10px 40px;
+	transition: 0.7s ease;
+}
+
+.btn-cstm-two:hover{
+	background: #4b4e73;
+}
+
+.mama h2{
+	color:#161616;
+	font-size: 40px;
+	margin: 50px 0px 0px;
+}
+
+.mama p{
+	margin: 20px 0px;
+	font-size: 13px;
+    font-family: 'Roboto Slab', serif;
+    	color: black;
+    	
+}
+.image-three img{
+
+	margin:30px 50px;
+width: 450px;
+	height: 300px;
+
+}
+
+.btn-cstm-three{
+	display: block;
+	margin: 40px 0px 0px;
+	background: #4b4e73;
+	color: #fff;
+	font-size: 15px;
+	border: 0;
+	border-radius: 20px;
+	padding: 10px 40px;
+	transition: 0.7s ease;
+}
+
+.btn-cstm-three:hover{
+	background: #dd4b2b;
+}
+
+
+/*------==image section end==-----*/
+
+
+
+
+
+/*------==title section==-----*/
+
+
+.title{
+	background-color: #d75d0e;
+	padding: 70px 0px 40px;
+	text-align: center;
+}
+
+
+ ul{
+list-style-type: none;
+}
+
+ ul li{
+color: #fff;
+margin: 10px auto;
+
+}
+
+ ul li:hover{
+color: silver;
+}
+
+
+
+/*------==title section end==-----*/
+
+
+
+
+/*------==footer section==-----*/
+footer{
+background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/09.png) center top;
+	padding: 120px 0px 150px;
+}
+
+.last p{
+	text-align: center;
+	font-size: 15px;
+	color: #fff;
+}
+
+
+/*------==footer section end==-----*/
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------==@media==--------------------*/
+
+
+@media (min-width: 320px) and (max-width:500px) { 
+
+.navbar-brand.js-scroll-trigger img{
+	width: 70%;
+  margin: 0px 20px;
+}
+
+.hero-top h2{
+	color:tomato;
+	font-size: 40px;
+	padding-top: 260px;
+  
+}
+
+.hero-top p{
+	color: #fff;
+	font-size: 20px ;
+	margin: 70px 0px 130px;
+  
+}
+
+
+.nav-link.js-scroll-trigger{
+   text-align: center;
+}
+
+.nav-link.js-scroll-trigger.active{
+   text-align: center;
+}
+
+.logo-head p{
+	
+    font-size: 15px;
+    margin-bottom: 50px
+ 
+}
+
+
+.input{
+  margin:50px 30px 80px 50px;
+	
+	
+}
+
+.input-one{
+    right: 70px;
+ 
+}
+.pk h2{
+
+	font-size: 35px;
+	margin: 70px 0px 30px;
+	 text-align: center;
+}
+
+.pk p{
+	margin: 20px 0px;
+	font-size: 13px;
+    text-align: center;
+    	
+}
+.image img{
+   display: block;
+	margin:0px auto;
+width: 350px;
+	height: 250px;
+}
+
+.btn-cstm-two{
+	
+	margin: 40px auto 0px;
+
+}
+.shawon{
+	border: 3px solid tomato;
+   margin: 0px auto 40px;
+   width: 80px;
+}
+
+.mama h2{
+text-align: center;
+	font-size: 35px;
+	margin: 50px 0px 30px;
+}
+
+.mama p{
+	margin: 20px 0px;
+	font-size: 13px;
+    	text-align: center;
+}
+.image-three img{
+   display: block;
+	margin:0px auto;
+    width: 350px;
+	height: 250px;
+
+}
+
+
+
+.btn-cstm-three{
+	margin: 40px auto 0px;
+}
+
+.last p{
+
+	font-size: 13px;
+	
+}
+
+ ul li{
+font-size: 15px;
+
+}
+
+}
+
+
